@@ -7,7 +7,7 @@ Bez problemu można się zalogować/wylogować, czy zmienić język polski/angie
 Jeśli zrobimy EDYCJĘ RAPORTU - klikniemy SAVE - raport pozostaje nadal w edycji, nie zamyka się. 
 
 
-######TASK3  Po co piszemy test case’y?
+# TASK3  Po co piszemy test case’y?
 - można znaleźć defekty aplikacji/ programów 
 - pomaga zanalizować, czy dana aplikacja będzie miała sens 
 - opisują potrzebne funkcjonalności 
