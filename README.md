@@ -21,8 +21,8 @@ https://docs.google.com/spreadsheets/d/1IffP9YPR4l8_b0Xi1U3ll6AmQyh56W8ouqVqVDRQ
 
 # TASK3
 
-## SUBTASK1 
+## SUBTASK1 - formatka
 
-## SUBTASK2
+## SUBTASK2- Testowanie według planów testów i raportowanie błędów
 
-## SUBTASK3
+## SUBTASK3 - - Raport z wykonanych testów
