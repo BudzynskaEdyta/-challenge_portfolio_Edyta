@@ -17,3 +17,12 @@ https://docs.google.com/spreadsheets/d/1IffP9YPR4l8_b0Xi1U3ll6AmQyh56W8ouqVqVDRQ
 - można znaleźć defekty aplikacji/ programów 
 - pomaga zanalizować, czy dana aplikacja będzie miała sens 
 - opisują potrzebne funkcjonalności 
+
+
+# TASK3
+
+## SUBTASK1 
+
+## SUBTASK2
+
+## SUBTASK3
