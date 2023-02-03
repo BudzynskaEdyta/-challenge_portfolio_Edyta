@@ -26,3 +26,17 @@ https://docs.google.com/spreadsheets/d/1IffP9YPR4l8_b0Xi1U3ll6AmQyh56W8ouqVqVDRQ
 ## SUBTASK2- Testowanie według planów testów i raportowanie błędów   https://docs.google.com/spreadsheets/d/1S0t-lTNEO_z31Wqz2mO-pJZLL5PcShIIZkx0F1TqUaQ/edit#gid=0
 
 ## SUBTASK3 - - Raport z wykonanych testów   https://docs.google.com/spreadsheets/d/1UtSK_pyiEu1OMlREASRdUNAsPrEFqa9tAH5KPkRlMaw/edit?usp=drive_web&ouid=108141591515587907004
+
+
+
+# TASK4
+
+## SUBTASK1
+Utworzenie formatki do zgłaszania błędów systemu
+
+## SUBTASK2 
+Testowanie eksploracyjne i raportowanie błędów
+
+## SUBTASK3
+Do czego służy ta aplikacja?
+
