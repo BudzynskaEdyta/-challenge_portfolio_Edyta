@@ -39,4 +39,15 @@ Testowanie eksploracyjne i raportowanie błędów
 
 ## SUBTASK3
 Do czego służy ta aplikacja?
+Aplikacja FOCUSLY służy ............
+
+Jaki jest cel tej aplikacji?
+
+Kto ma być użytkownikiem końcowym aplikacji?
+
+Czy według Ciebie aplikacja jest user friendly?
+
+Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+
+Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 
