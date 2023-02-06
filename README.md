@@ -35,19 +35,30 @@ https://docs.google.com/spreadsheets/d/1IffP9YPR4l8_b0Xi1U3ll6AmQyh56W8ouqVqVDRQ
 Utworzenie formatki do zgłaszania błędów systemu
 
 ## SUBTASK2 
-Testowanie eksploracyjne i raportowanie błędów
+Testowanie eksploracyjne i raportowanie błędów  https://docs.google.com/spreadsheets/d/1C0ANpF81rrk-UGivgFkIUtkRdaUS3fzVw2abT0CndYM/edit#gid=0
 
 ## SUBTASK3
 Do czego służy ta aplikacja?
-Aplikacja FOCUSLY służy ............
+Aplikacja olx służy do zamieszczania ogłoszeń sprzedaży rzeczy nowych i używanych, zamieszczania i szukania ogłoszeń o pracę. 
 
 Jaki jest cel tej aplikacji?
+- dotarcie do jak największej grupy odbiorców 
+- pomaga pozbywać się niepotrzebnych już rzeczy jej użytkownikom za darmo
+ 
 
 Kto ma być użytkownikiem końcowym aplikacji?
+Osoba, która czegoś poszukuje, czy to przedmiot czy to zajęcie - praca.
 
 Czy według Ciebie aplikacja jest user friendly?
+Tak, bardzo długo już z niej korzystam i nie miałam do tej pory z nią większych problemów.
 
 Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+Trochę wkurzające jest to, że po miesiącu ogłoszenie trzeba aktywować i jeśli się to zrobi - to potem aplikacja nie kieruje od razu do kolejnych ogłoszeń, które należy przedlużyć, tylko do aktywnych ogłoszeń albo na stronę główną aplikacji, to na pewno zmieniłabym.
 
 Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+- łatwiejszy dostęp aplikacji interetowej 
+- - nie muszę jej instalować na dysku 
+- nie musze jej aktualizować 
+- 
+
 
