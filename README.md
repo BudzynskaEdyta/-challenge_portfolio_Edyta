@@ -64,7 +64,12 @@ Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a naty
 
 - łatwiejszy dostęp aplikacji interetowej 
 - nie muszę jej instalować na dysku 
-- nie musze jej aktualizować 
+- nie muszę jej aktualizować 
+
+# TASK5
+## SUBTASK1 
+### SUBTASK2
+#### SUBTASK3 
 
 
 
